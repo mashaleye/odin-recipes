@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes list with HTML
+Create recipe list with images and text using HTML
